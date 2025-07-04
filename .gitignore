@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Java
+/target/
+/*.jar
+
+# Node
+node_modules/
+
+# Docker
+*.log
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Others
+.idea/
